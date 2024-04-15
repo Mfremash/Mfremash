@@ -9,8 +9,8 @@ Well, kind of like a passionate man with fire in his eyes
 * 🌍  I'm based in Almaty
 * ✉️  You can contact me at [mfremash@gmail.com](mailto:mfremash@gmail.com)
 * 🧠  I'm learning The world of Devops
-* 🤝  I'm open to collaborating on Maybe Gamedev
-* ⚡  I want to know more
+* 🤝 I am open to cooperation,probably with Gamedev
+*  ⚡  I want to know more
 
 ### Skills
 
